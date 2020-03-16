@@ -1,0 +1,11 @@
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.exe
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.deps.json
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.runtimeconfig.json
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.runtimeconfig.dev.json
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.dll
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\bin\Debug\netcoreapp3.0\yazlab12.pdb
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\obj\Debug\netcoreapp3.0\yazlab12.csprojAssemblyReference.cache
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\obj\Debug\netcoreapp3.0\yazlab12.AssemblyInfoInputs.cache
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\obj\Debug\netcoreapp3.0\yazlab12.AssemblyInfo.cs
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\obj\Debug\netcoreapp3.0\yazlab12.dll
+H:\Atakan İBİŞ\Yazılım Lab-1\2.Proje (SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ)\yazlab12\yazlab12\obj\Debug\netcoreapp3.0\yazlab12.pdb
